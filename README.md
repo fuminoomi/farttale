@@ -3,6 +3,7 @@
 <!--MAIN LEFT IMAGE-->
 <img align="left" img src="https://github.com/fuminoomi/farttale/blob/main/Untitled184_Restored_20260819190838.png?raw=true" width="500" height="auto">
 
+<!--WHERE MY HUG AT IMAGE-->
 <img align="left" img src="https://github.com/fuminoomi/farttale/blob/main/Untitled184_Restored_20260819190829.png?raw=true" width="300" height="auto">
 <p align="right">
 <p align="left"> $\color{#D8E3D0}\huge{\textsf{info}}$ $\color{#D4D4A7}\huge{\textsf{abt}}$ $\color{#CCCF76}\huge{\textsf{me}}$ $\color{#C3C576}\tiny{\textsf{ ( ≧ ⩊ ≦) }}$
@@ -15,6 +16,7 @@ $\color{#D8E3D0}{\textsf{almost}}$ $\color{#D4D4A7}{\textsf{always}}$ $\color{#C
 $\color{#D8E3D0}{\textsf{i}}$ $\color{#D4D4A7}{\textsf{❤︎}}$ $\color{#D56A78}{\textsf{red}}$ $\color{#BB9B76}{\textsf{and}}$ $\color{#CCCF76}{\textsf{green}}$
 </p>
 
+<!--SNOOZING.....DRUNK? IMAGE-->
 <img align="right" img src="https://github.com/fuminoomi/farttale/blob/main/Untitled184_Restored_20260819190834.png?raw=true" width="300" height="auto">
  <p align="left">
 <p align="right"> $\color{#BF7775}\huge{\textsf{before}}$ $\color{#D56A78}\huge{\textsf{you}}$ $\color{#B54879}\huge{\textsf{interact}}$ <br>
@@ -25,4 +27,6 @@ $\color{#B54879}{\textsf{INTERACT}}$ $\color{#D56A78}{\textsf{WITH}}$ $\color{#B
 $\color{#B54879}{\textsf{i}}$ $\color{#D56A78}{\textsf{love}}$ $\color{#BF7775}{\textsf{interacting}}$ <br>
 $\color{#B54879}{\textsf{i}}$ $\color{#D56A78}{\textsf{need}}$ $\color{#BF7775}{\textsf{more}}$ $\color{#BB9B76}{\textsf{friends}}$ $\color{#C3C576}{\textsf{pls}}$
 </p>
+
+<!--IS THIS SANSCEST ENDING BANNER-->
 <img align="center" img src="https://github.com/fuminoomi/farttale/blob/main/Untitled184_Restored_20260819190818.png?raw=true" alt="Header" width="1000"/>
