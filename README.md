@@ -30,3 +30,6 @@ $\color{#B54879}{\textsf{i}}$ $\color{#D56A78}{\textsf{need}}$ $\color{#BF7775}{
 
 <!--IS THIS SANSCEST ENDING BANNER-->
 <img align="center" img src="https://github.com/fuminoomi/farttale/blob/main/Untitled184_Restored_20260819190818.png?raw=true" alt="Header" width="1000"/>
+
+$\color{#D56A78}\small{\textsf{art / graphics / github made by}}$ [**@fuminoomi**](https://github.com/fuminoomi)
+
